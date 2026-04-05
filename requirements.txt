@@ -1,0 +1,4 @@
+Flask==2.0.1
+PyOTP==2.6.0
+pyrad>=2.5
+Flask-CORS==3.0.10

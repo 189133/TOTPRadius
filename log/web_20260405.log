@@ -1,0 +1,232 @@
+2026-04-05 00:54:41,456 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:54:41,464 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:54:49,613 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:54:50,155 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:54:50,163 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:55:00,347 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:55:00,893 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:55:00,901 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:55:31,460 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:55:32,047 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:55:32,055 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:55:42,250 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:55:42,813 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:55:42,822 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:55:50,986 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:55:51,547 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:55:51,555 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:56:05,805 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:56:06,390 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:56:06,398 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:56:17,602 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:56:18,150 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:56:18,159 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:56:56,744 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:56:56,745 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:56:56] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:56:58,292 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:56:58,293 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:56:58] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:57:00,933 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:57:00,933 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:57:00] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:57:11,619 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:57:11,620 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:57:11] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:57:13,502 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:57:13,502 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:57:13] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:57:19,575 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:57:19,576 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:57:19] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:57:48,902 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:57:48,902 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:57:48] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:57:48,929 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /favicon.ico
+2026-04-05 00:57:48,929 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:57:48] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 401 -
+2026-04-05 00:58:43,295 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:58:43,872 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:58:43,880 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:58:48,998 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:58:49,569 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:58:49,577 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:58:57,733 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 00:58:58,307 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 00:58:58,316 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 00:59:19,163 - __main__ - WARNING - HTTP»œ÷§ ß∞‹: 127.0.0.1 ≥¢ ‘∑√Œ  /
+2026-04-05 00:59:19,164 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:19] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2026-04-05 00:59:27,625 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 00:59:27,699 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:27] "GET / HTTP/1.1" 200 -
+2026-04-05 00:59:28,661 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 00:59:28,661 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 00:59:28,662 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 4 ∏ˆ”√ªß
+2026-04-05 00:59:28,663 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:28] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 00:59:28,996 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /favicon.ico
+2026-04-05 00:59:28,997 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-05 00:59:30,850 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 00:59:30,850 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 00:59:30,851 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 4 ∏ˆ”√ªß
+2026-04-05 00:59:30,851 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:30] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 00:59:32,041 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 00:59:32,042 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 00:59:32,042 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 00:59:32,043 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:32] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 00:59:32,672 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 00:59:32,673 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 00:59:32,674 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 4 ∏ˆ”√ªß
+2026-04-05 00:59:32,675 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:32] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 00:59:34,228 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users/4
+2026-04-05 00:59:34,228 - __main__ - INFO - ∏¸–¬”√ªß: 127.0.0.1 - ID: 4, enabled: True
+2026-04-05 00:59:34,233 - __main__ - INFO - ∏¸–¬”√ªß≥…π¶: ID: 4
+2026-04-05 00:59:34,234 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:34] "PUT /api/users/4 HTTP/1.1" 200 -
+2026-04-05 00:59:34,479 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 00:59:34,480 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 00:59:34,480 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 4 ∏ˆ”√ªß
+2026-04-05 00:59:34,481 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 00:59:34] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 01:15:30,615 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 01:15:30,616 - __main__ - INFO - ÃÌº””√ªß: 127.0.0.1 - 555
+2026-04-05 01:15:30,620 - __main__ - INFO - ÃÌº””√ªß≥…π¶: 555 (ID: 5)
+2026-04-05 01:15:30,622 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:15:30] "[35m[1mPOST /api/users HTTP/1.1[0m" 201 -
+2026-04-05 01:15:30,866 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 01:15:30,866 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 01:15:30,867 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 01:15:30,867 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:15:30] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 01:43:03,823 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:43:04,378 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:43:04,387 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:43:28,760 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:43:29,365 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:43:29,373 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:43:49,691 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:43:50,238 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:43:50,246 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:44:05,501 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:44:06,054 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:44:06,064 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:45:36,605 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 01:45:36,605 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 01:45:36,606 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 01:45:36,607 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:45:36] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 01:45:51,292 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 01:45:51,363 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:45:51] "GET / HTTP/1.1" 200 -
+2026-04-05 01:45:51,597 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 01:45:51,597 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 01:45:51,598 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 01:45:51,598 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:45:51] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 01:45:52,733 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 01:45:52,733 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 01:45:52,734 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 01:45:52,735 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:45:52] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 01:50:28,575 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:50:29,132 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:50:29,140 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:54:07,332 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:54:07,904 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:54:07,913 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:54:28,253 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:54:28,799 - __main__ - INFO - ¥” ˝æ›ø‚º”‘ÿ≈‰÷√≥…π¶: MAX_FAILED_ATTEMPTS=100, LOCKOUT_DURATION=300
+2026-04-05 01:54:28,828 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:54:28,837 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:54:52,225 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 01:54:52,835 - __main__ - INFO - ¥” ˝æ›ø‚º”‘ÿ≈‰÷√≥…π¶: MAX_FAILED_ATTEMPTS=100, LOCKOUT_DURATION=300
+2026-04-05 01:54:52,865 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 01:54:52,874 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 01:55:50,609 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 01:55:50,693 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:55:50] "GET / HTTP/1.1" 200 -
+2026-04-05 01:55:50,710 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 01:55:50,710 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 01:55:50,711 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 01:55:50,712 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:55:50] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 01:55:52,621 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 01:55:52,622 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 01:55:52,622 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 01:55:52,623 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 01:55:52] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 02:15:15,430 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 02:15:15,430 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 02:15:15,432 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 02:15:15,432 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 02:15:15] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 02:15:21,209 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users/5
+2026-04-05 02:15:21,210 - __main__ - INFO - ∏¸–¬”√ªß: 127.0.0.1 - ID: 5, enabled: False, phone: None
+2026-04-05 02:15:21,215 - __main__ - INFO - ∏¸–¬”√ªß≥…π¶: ID: 5
+2026-04-05 02:15:21,216 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 02:15:21] "PUT /api/users/5 HTTP/1.1" 200 -
+2026-04-05 02:15:21,520 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 02:15:21,520 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 02:15:21,521 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 02:15:21,521 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 02:15:21] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 02:15:32,160 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users/1
+2026-04-05 02:15:32,161 - __main__ - INFO - ∏¸–¬”√ªß: 127.0.0.1 - ID: 1, enabled: False, phone: None
+2026-04-05 02:15:32,166 - __main__ - INFO - ∏¸–¬”√ªß≥…π¶: ID: 1
+2026-04-05 02:15:32,166 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 02:15:32] "PUT /api/users/1 HTTP/1.1" 200 -
+2026-04-05 02:15:32,477 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 02:15:32,477 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 02:15:32,478 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 02:15:32,478 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 02:15:32] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 09:46:08,976 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users/1
+2026-04-05 09:46:08,977 - __main__ - INFO - ∏¸–¬”√ªß: 127.0.0.1 - ID: 1, enabled: True, phone: None
+2026-04-05 09:46:08,983 - __main__ - INFO - ∏¸–¬”√ªß≥…π¶: ID: 1
+2026-04-05 09:46:08,983 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 09:46:08] "PUT /api/users/1 HTTP/1.1" 200 -
+2026-04-05 09:46:09,227 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 09:46:09,227 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 09:46:09,228 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 09:46:09,229 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 09:46:09] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 11:17:53,584 - werkzeug - INFO -  * Detected change in 'd:\\NewCode\\TOTPRadius\\frontend\\app.py', reloading
+2026-04-05 11:17:54,126 - __main__ - INFO - ¥” ˝æ›ø‚º”‘ÿ≈‰÷√≥…π¶: MAX_FAILED_ATTEMPTS=100, LOCKOUT_DURATION=300
+2026-04-05 11:17:54,154 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 11:17:54,162 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 11:30:43,622 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 11:30:43,696 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:30:43] "GET / HTTP/1.1" 200 -
+2026-04-05 11:30:43,713 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 11:30:43,714 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 11:30:43,721 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 11:30:43,722 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:30:43] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 11:30:44,951 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 11:30:44,952 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 11:30:44,952 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 11:30:44,953 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:30:44] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 11:31:00,948 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 11:31:00,949 - __main__ - INFO - ∏¸–¬≈‰÷√: 127.0.0.1 - {'debug_mode': '0', 'radius_secret': 'secotp', 'max_failed_attempts': '100', 'lockout_duration': '300', 'enable_reconnect_tolerance': '1', 'reconnect_tolerance_duration': '43200', 'enable_recent_tolerance': '1', 'recent_tolerance_duration': '600'}
+2026-04-05 11:31:00,954 - __main__ - INFO - ∏¸–¬≈‰÷√≥…π¶
+2026-04-05 11:31:00,955 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:31:00] "POST /api/config HTTP/1.1" 200 -
+2026-04-05 11:31:12,209 - __main__ - INFO - ¥” ˝æ›ø‚º”‘ÿ≈‰÷√≥…π¶: MAX_FAILED_ATTEMPTS=100, LOCKOUT_DURATION=300
+2026-04-05 11:31:12,273 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.81.99:8080
+2026-04-05 11:31:12,278 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-05 11:31:12,280 - werkzeug - INFO -  * Restarting with stat
+2026-04-05 11:31:12,768 - __main__ - INFO - ¥” ˝æ›ø‚º”‘ÿ≈‰÷√≥…π¶: MAX_FAILED_ATTEMPTS=100, LOCKOUT_DURATION=300
+2026-04-05 11:31:12,794 - werkzeug - WARNING -  * Debugger is active!
+2026-04-05 11:31:12,802 - werkzeug - INFO -  * Debugger PIN: 475-055-762
+2026-04-05 11:41:48,135 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 11:41:48,207 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:41:48] "[36mGET / HTTP/1.1[0m" 304 -
+2026-04-05 11:41:48,224 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 11:41:48,225 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 11:41:48,226 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 11:41:48,226 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:41:48] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 11:41:50,249 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 11:41:50,249 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 11:41:50,250 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 11:41:50,251 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:41:50] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 11:41:51,227 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 11:41:51,228 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:41:51] "GET / HTTP/1.1" 200 -
+2026-04-05 11:41:51,243 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 11:41:51,244 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 11:41:51,244 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 11:41:51,245 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:41:51] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 11:41:54,586 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 11:41:54,587 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 11:41:54,587 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 11:41:54,588 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:41:54] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 11:42:00,789 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 11:42:00,790 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:42:00] "[36mGET / HTTP/1.1[0m" 304 -
+2026-04-05 11:42:00,804 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 11:42:00,804 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 11:42:00,805 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 11:42:00,806 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:42:00] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 11:42:06,400 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 11:42:06,400 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 11:42:06,400 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 11:42:06,401 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:42:06] "GET /api/config HTTP/1.1" 200 -
+2026-04-05 11:42:07,361 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /
+2026-04-05 11:42:07,362 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:42:07] "GET / HTTP/1.1" 200 -
+2026-04-05 11:42:07,376 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/users
+2026-04-05 11:42:07,376 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì: 127.0.0.1
+2026-04-05 11:42:07,377 - __main__ - INFO - ªÒ»°”√ªß¡–±Ì≥…π¶£¨π≤ 5 ∏ˆ”√ªß
+2026-04-05 11:42:07,377 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:42:07] "GET /api/users HTTP/1.1" 200 -
+2026-04-05 11:42:11,480 - __main__ - INFO - HTTP»œ÷§≥…π¶: 127.0.0.1 ∑√Œ  /api/config
+2026-04-05 11:42:11,481 - __main__ - INFO - ªÒ»°≈‰÷√: 127.0.0.1
+2026-04-05 11:42:11,482 - __main__ - INFO - ªÒ»°≈‰÷√≥…π¶
+2026-04-05 11:42:11,482 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2026 11:42:11] "GET /api/config HTTP/1.1" 200 -

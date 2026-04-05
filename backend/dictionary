@@ -1,0 +1,15 @@
+# 基本Radius属性定义
+ATTRIBUTE    User-Name       1       string
+ATTRIBUTE    User-Password   2       string
+ATTRIBUTE    Reply-Message   18      string
+ATTRIBUTE    Framed-IP-Address       8       ipaddr
+ATTRIBUTE    Framed-Pool    88      string
+ATTRIBUTE    Service-Type    6       integer
+ATTRIBUTE    Session-Timeout 27      integer
+ATTRIBUTE    Vendor-Specific    26      octets
+
+# 厂商定义
+VENDOR    H3C    25506
+
+# H3C厂商属性
+ATTRIBUTE    H3C    1       string    H3C
