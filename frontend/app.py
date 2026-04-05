@@ -32,8 +32,8 @@ app = Flask(__name__, static_folder='.', static_url_path='')
 CORS(app)
 
 # 硬编码的HTTP认证信息
-HTTP_USERNAME = 'gasadmin'
-HTTP_PASSWORD = 'xxglb'
+HTTP_USERNAME = 'admin'
+HTTP_PASSWORD = 'admin123'
 
 # 黑名单配置
 MAX_FAILED_ATTEMPTS = 100  # 最大失败次数
